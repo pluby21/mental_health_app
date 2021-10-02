@@ -1,6 +1,6 @@
 # mental_health_app
 
-A new Flutter project.
+A new ACM UR Flutter project.
 
 ## Getting Started
 
